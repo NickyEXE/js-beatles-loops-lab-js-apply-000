@@ -10,9 +10,10 @@ function johnLennonFacts(array){
   var i = 0
   var excitedFacts = []
   while (i<array.num) {
-    excitedFacts.push(array[i])
-    
+    excitedFacts.push(array[i]);
+    i++
   }
+  return excitedFacts
 }
 
 
@@ -29,3 +30,5 @@ const jfacts = [
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"]
+
+console.log (johnLennonFacts(jfacts))
