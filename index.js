@@ -13,3 +13,9 @@ function theBeatlesPlay(musicians,instruments) {
 //console.log (theBeatlesPlay(beatles,instruments))
 //console.log ("the length is correct: " + (theBeatlesPlay(beatles,instruments).length === 5))
 
+//johnLennonFacts
+const jfacts = [
+  "He was the last Beatle to learn to drive",
+  "He was never a vegetarian",
+  "He was a choir boy and boy scout",
+  "He hated the sound of his own voice"]
