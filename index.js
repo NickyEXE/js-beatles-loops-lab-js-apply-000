@@ -17,7 +17,7 @@ function johnLennonFacts(array){
 }
 
 function iLoveTheBeatles (num){
-  var i = 1
+  var i = 0
   var toFillArray = []
   do {toFillArray.push("I love the Beatles!");
   i++}
@@ -40,5 +40,5 @@ function iLoveTheBeatles (num){
 //console.log (johnLennonFacts(jfacts))
 
 //iLoveTheBeatles
-console.log (iLoveTheBeatles(5))
-console.log (iLoveTheBeatles(17))
+console.log (iLoveTheBeatles(5).length)
+console.log (iLoveTheBeatles(17).length)
