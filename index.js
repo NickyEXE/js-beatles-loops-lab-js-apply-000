@@ -21,7 +21,7 @@ function iLoveTheBeatles (num){
   var toFillArray = []
   do {toFillArray.push("I love the Beatles!");
   i++}
-  while (i < num);
+  while (i < num && num <15);
   return toFillArray
 }
 
