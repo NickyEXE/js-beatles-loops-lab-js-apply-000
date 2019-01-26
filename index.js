@@ -41,5 +41,3 @@ function iLoveTheBeatles (num){
 //console.log (johnLennonFacts(jfacts))
 
 //iLoveTheBeatles
-console.log (iLoveTheBeatles(7).length===7)
-console.log (iLoveTheBeatles(17).length === 1)
