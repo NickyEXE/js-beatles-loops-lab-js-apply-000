@@ -6,8 +6,9 @@ function theBeatlesPlay(musicians,instruments) {
     whatTheyPlay.push(musicians[i] + " plays " + instruments[i])}
     return whatTheyPlay}
 
-johnLennonFacts(num)
-
+function johnLennonFacts(array){
+  
+}
 
 
 
