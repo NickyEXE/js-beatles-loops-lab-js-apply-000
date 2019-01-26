@@ -18,8 +18,11 @@ function johnLennonFacts(array){
 
 function iLoveTheBeatles (num){
   var toFillArray = []
-  do {toFillArray.push("I love the Beatles!")}
-  while (toFillArray.length < num && num <15);
+  var countIt = num
+  do {toFillArray.push("I love the Beatles!");
+    num++
+  }
+  while (num <15);
   return toFillArray
 }
 
