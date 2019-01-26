@@ -40,5 +40,5 @@ function iLoveTheBeatles (num){
 //console.log (johnLennonFacts(jfacts))
 
 //iLoveTheBeatles
-console.log (iLoveTheBeatles(5).length)
+console.log (iLoveTheBeatles(7).length)
 console.log (iLoveTheBeatles(17).length)
