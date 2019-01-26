@@ -20,7 +20,8 @@ function iLoveTheBeatles (num){
   var i = 0
   var emptyArray = []
   do {emptyArray.push("I love the Beatles!");
-  
+  i++}
+  while 
 }
 
 //theBeatlesPlay
