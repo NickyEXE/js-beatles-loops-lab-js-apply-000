@@ -16,7 +16,9 @@ function johnLennonFacts(array){
   return excitedFacts
 }
 
-
+function iLoveTheBeatles (num){
+  
+}
 
 //theBeatlesPlay
 //var beatles = ["John", "Paul", "George", "Ringo", "Yoko"]
@@ -25,10 +27,13 @@ function johnLennonFacts(array){
 //console.log ("the length is correct: " + (theBeatlesPlay(beatles,instruments).length === 5))
 
 //johnLennonFacts
-const jfacts = [
+//const jfacts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"]
+//console.log (johnLennonFacts(jfacts))
 
-console.log (johnLennonFacts(jfacts))
+//iLoveTheBeatles
+console.log (iLoveTheBeatles(5))
+console.log (iLoveTheBeatles(17))
