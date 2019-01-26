@@ -6,6 +6,10 @@ function theBeatlesPlay(musicians,instruments) {
     whatTheyPlay.push(musicians[i] + " plays " + instruments[i])}
     return whatTheyPlay}
 
+johnLennonFacts(num)
+
+
+
 
 //theBeatlesPlay
 //var beatles = ["John", "Paul", "George", "Ringo", "Yoko"]
